@@ -29,9 +29,7 @@
 ###
 
 <div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -43,6 +41,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<h4 align="left">Tech Stack! <br><br>(Primary) C# ; dotnet ; dotnet core ; js ; ts ; node JS ; express ; react ; html 5 ; css3 ; Mongo DB ;<br>(Other) Figma ; Postman<br>(Applications) Webstorm ; Rider ; VSC ; Visual Studio ; Vim</h4>
 
 ###
 
