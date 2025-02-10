@@ -48,7 +48,7 @@
 
 ###
 
-<h4 align="left">Tech Stack! <br><br>(Primary) C# ; dotnet ; dotnet core ; js ; ts ; node JS ; express ; react ; html 5 ; css3 ; Mongo DB ;<br>(Other) Figma ; Postman<br>(Applications) Webstorm ; Rider ; VSC ; Visual Studio ; Vim</h4>
+<h4 align="left">Tech Stack! <br><br>(Primary) Rust ; C# ; dotnet ; dotnet core ; js ; ts ; node JS ; express ; react ; html 5 ; css3 ; Mongo DB ;<br>(Other) Figma ; Postman<br>(Applications) Webstorm ; Rider ; VSC ; Visual Studio ; Vim</h4>
 
 ###
 
