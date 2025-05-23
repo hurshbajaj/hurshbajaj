@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I've been coding since about 5 years, getting serious only about this year; joining the tech club of my school and have been passionate about Web Development && Backend ever since;</p>
+<p align="center">I've been coding since about 5 years, getting serious only about this year; joining the tech club of my school and have been passionate about Web Development && Systems' Programming ever since;</p>
 
 ###
 
