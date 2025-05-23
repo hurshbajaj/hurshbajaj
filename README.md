@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">Tech Stack! <br><br>(Primary) Rust ; Hyper <webd> ; <rs-more> ; Golang ; Gin ; C# ; dotnet ; dotnet core ; js ; ts ; node JS ; express ; react ; html 5 ; css3 ; Mongo DB ;<br><br>(Applications) Webstorm ; Vsc ; Neovim ; WSL</h4>
+<h4 align="left">Tech Stack! <br><br>(Primary) Rust ; Hyper | webd | ; | rs-more | ; Golang ; Gin ; C# ; dotnet ; dotnet core ; js ; ts ; node JS ; express ; react ; html 5 ; css3 ; Mongo DB ;<br><br>(Applications) Webstorm ; Vsc ; Neovim ; WSL</h4>
 
 ###
 
