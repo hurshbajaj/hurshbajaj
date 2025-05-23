@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! My name is Hursh Bajaj and I'm a passionate dev in grade 8</h1>
+<h1 align="left">Hi 👋! My name is Hursh Bajaj and I'm a passionate dev in grade 8</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hurshbajaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=hurshbajaj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=hurshbajaj&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I've been coding since about 5 years, getting serious only about this year; joining the tech club of my school and have been passionate about Web Development && Backend ever since;</p>
+<p align="center">I've been coding since about 5 years, getting serious only about this year; joining the tech club of my school and have been passionate about Web Development && Backend ever since;</p>
 
 ###
 
