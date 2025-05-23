@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
 ###
@@ -36,7 +38,7 @@
 
 ###
 
-<h4 align="left">Tech Stack! <br><br>(Primary) Rust ; Hyper ; C# ; dotnet ; dotnet core ; js ; ts ; node JS ; express ; react ; html 5 ; css3 ; Mongo DB ;<br><br>(Applications) Webstorm ; Vsc ; Neovim ; WSL</h4>
+<h4 align="left">Tech Stack! <br><br>(Primary) Rust ; Hyper <webd> ; <rs-more> ; Golang ; Gin ; C# ; dotnet ; dotnet core ; js ; ts ; node JS ; express ; react ; html 5 ; css3 ; Mongo DB ;<br><br>(Applications) Webstorm ; Vsc ; Neovim ; WSL</h4>
 
 ###
 
