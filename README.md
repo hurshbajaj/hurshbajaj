@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Hursh Bajaj and I'm a passionate dev in grade 8</h1>
+<h1 align="left">Hi 👋! My name is Hursh Bajaj and I'm a passionate dev in grade 9</h1>
 
 ###
 
